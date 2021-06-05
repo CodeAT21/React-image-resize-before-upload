@@ -1,0 +1,1 @@
+# React-image-resize-before-upload
